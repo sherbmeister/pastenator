@@ -1,0 +1,3 @@
+# Pastenator
+
+Repository seed.
