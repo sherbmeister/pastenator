@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Pastenator">
+  <defs>
+    <linearGradient id="g" x1="18" y1="18" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#19c7b7"/>
+      <stop offset=".48" stop-color="#4f8cff"/>
+      <stop offset="1" stop-color="#ffb020"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="26" fill="#10131b"/>
+  <path d="M43 24h32l22 22v58H43z" fill="#f7f9fc"/>
+  <path d="M75 24v24h22" fill="#dbeafe"/>
+  <path d="M31 37h40l22 22v45a8 8 0 0 1-8 8H31a8 8 0 0 1-8-8V45a8 8 0 0 1 8-8z" fill="url(#g)"/>
+  <path d="M70 37v22h23" fill="#9ed9ff"/>
+  <path d="M39 70h36M39 84h42M39 98h28" stroke="#10131b" stroke-width="7" stroke-linecap="round"/>
+</svg>

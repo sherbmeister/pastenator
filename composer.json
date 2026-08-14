@@ -1,0 +1,14 @@
+{
+  "name": "quantumnet/pastenator",
+  "description": "A compact self-hosted Pastebin-style web app with users, admins, email verification, and TOTP 2FA.",
+  "type": "project",
+  "require": {
+    "php": ">=8.2",
+    "bacon/bacon-qr-code": "^3.0",
+    "phpmailer/phpmailer": "^6.10"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
